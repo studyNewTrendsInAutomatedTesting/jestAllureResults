@@ -1,4 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Jan 24 13:55:38 UTC 2024","Wed Jan 24 13:55:40 UTC 2024","1946","","","","","","Test Authentication","This test attempts to log into the website using a login and a password. Fails if any error happens.
-
-Note that this test does not test 2-Factor Authentication."
+"passed","Thu Jan 25 15:52:28 UTC 2024","Thu Jan 25 15:52:29 UTC 2024","1770","","","","","","Negative: Attempt to authorize with incorrect email","This test checks responses for incorrect emails and password"
+"passed","Thu Jan 25 15:52:28 UTC 2024","Thu Jan 25 15:52:29 UTC 2024","1253","","","","","","Get Search Engine Optimization via API","This test checks Search Engine Optimization title"
