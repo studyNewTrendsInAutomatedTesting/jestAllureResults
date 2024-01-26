@@ -1,3 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Jan 25 15:52:28 UTC 2024","Thu Jan 25 15:52:29 UTC 2024","1770","","","","","","Negative: Attempt to authorize with incorrect email","This test checks responses for incorrect emails and password"
-"passed","Thu Jan 25 15:52:28 UTC 2024","Thu Jan 25 15:52:29 UTC 2024","1253","","","","","","Get Search Engine Optimization via API","This test checks Search Engine Optimization title"
+"passed","Fri Jan 26 14:44:43 UTC 2024","Fri Jan 26 14:44:47 UTC 2024","3746","","","","","","Attempt to reset password for email (suited26s@gmail.com)","This test checks responses for incorrect emails and password"
+"passed","Fri Jan 26 14:44:43 UTC 2024","Fri Jan 26 14:44:46 UTC 2024","2778","","","","","","Negative: Attempt to authorize with incorrect email (incorrectEmail@gmail.com)","This test checks responses for incorrect emails and password"
+"passed","Fri Jan 26 14:44:43 UTC 2024","Fri Jan 26 14:44:45 UTC 2024","2081","","","","","","Negative: Attempt to authorize with incorrect email (forgotMyEmail@gmail.com)","This test checks responses for incorrect emails and password"
+"passed","Fri Jan 26 14:44:43 UTC 2024","Fri Jan 26 14:44:44 UTC 2024","1227","","","","","","Get Search Engine Optimization via API","This test checks Search Engine Optimization title"
