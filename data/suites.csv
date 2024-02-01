@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Feb 01 14:21:47 UTC 2024","Thu Feb 01 14:21:47 UTC 2024","144","","","","","","should create MongoDB database and collection","This test checks MongoDB database and collection creation"
+"passed","Thu Feb 01 14:27:40 UTC 2024","Thu Feb 01 14:27:40 UTC 2024","101","","","","","","should create MongoDB database and collection","This test checks MongoDB database and collection creation"
