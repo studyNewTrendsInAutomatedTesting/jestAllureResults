@@ -1,7 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:30 UTC 2024","1236","","","","","","Negative: Attempt to authorize with incorrect email (forgotMyEmail@gmail.com)","This test checks responses for incorrect emails and password"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:31 UTC 2024","2306","","","","","","Checking simple sql injections forgotMyEmail@gmail.com (' OR 1=1 --)","This test checks responses for sql injections in password field"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:32 UTC 2024","3227","","","","","","Attempt to reset password for email (suited26s@gmail.com)","This test checks responses for incorrect emails and password"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:30 UTC 2024","1154","","","","","","Get Search Engine Optimization via API","This test checks Search Engine Optimization title"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:32 UTC 2024","2945","","","","","","Checking simple sql injections incorrectEmail@gmail.com (SELECT * FROM users WHERE username = 'admin' AND password = 'password')","This test checks responses for sql injections in password field"
-"passed","Mon Jan 29 09:49:29 UTC 2024","Mon Jan 29 09:49:31 UTC 2024","1775","","","","","","Negative: Attempt to authorize with incorrect email (incorrectEmail@gmail.com)","This test checks responses for incorrect emails and password"
+"passed","Thu Feb 01 14:21:40 UTC 2024","Thu Feb 01 14:21:40 UTC 2024","103","","","","","","should create MongoDB database and collection","This test checks MongoDB database and collection creation"
