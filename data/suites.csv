@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Feb 02 17:22:05 UTC 2024","Fri Feb 02 17:22:07 UTC 2024","2183","","","","","","should create MongoDB database and collection via API","This test checks MongoDB database and collection creation"
-"passed","Fri Feb 02 17:22:05 UTC 2024","Fri Feb 02 17:22:10 UTC 2024","4253","","","","","","should create MongoDB database and collection via direct sending event to Kafka","This test checks MongoDB database and collection creation"
+"passed","Fri Feb 02 17:22:02 UTC 2024","Fri Feb 02 17:22:07 UTC 2024","4189","","","","","","should create MongoDB database and collection via direct sending event to Kafka","This test checks MongoDB database and collection creation"
+"passed","Fri Feb 02 17:22:02 UTC 2024","Fri Feb 02 17:22:05 UTC 2024","2140","","","","","","should create MongoDB database and collection via API","This test checks MongoDB database and collection creation"
