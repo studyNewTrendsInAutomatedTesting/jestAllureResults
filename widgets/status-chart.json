@@ -1,1 +1,1 @@
-[{"uid":"627ace94be24d33d","name":"should create MongoDB database and collection","time":{"start":1706861865197,"stop":1706861865363,"duration":166},"status":"failed","severity":"normal"}]
+[{"uid":"e9ad887984047c22","name":"should create MongoDB database and collection","time":{"start":1706880201357,"stop":1706880203487,"duration":2130},"status":"passed","severity":"normal"}]
