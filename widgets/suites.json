@@ -1,1 +1,1 @@
-{"total":4,"items":[{"uid":"ddea6e2e5209eb1222fd7041eed6c83b","name":"Smoke tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+{"total":2,"items":[{"uid":"c4610d0766e0dffb292d44534e658373","name":"Full regression","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"ddea6e2e5209eb1222fd7041eed6c83b","name":"Smoke tests","statistic":{"failed":0,"broken":0,"skipped":2,"passed":0,"unknown":0,"total":2}}]}
