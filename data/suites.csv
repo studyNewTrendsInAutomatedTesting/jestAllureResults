@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Feb 27 15:41:56 UTC 2024","Tue Feb 27 15:41:59 UTC 2024","3137","","","","","","Attempt to reset password for email (suited26s@gmail.com)","This test checks responses for incorrect emails and password"
-"passed","Tue Feb 27 15:41:56 UTC 2024","Tue Feb 27 15:41:57 UTC 2024","1066","","","","","","Negative: Attempt to authorize with incorrect email (forgotMyEmail@gmail.com)","This test checks responses for incorrect emails and password"
-"passed","Tue Feb 27 15:41:55 UTC 2024","Tue Feb 27 15:41:57 UTC 2024","1911","","","","","","Get Search Engine Optimization via API","This test checks Search Engine Optimization title"
-"passed","Tue Feb 27 15:41:56 UTC 2024","Tue Feb 27 15:41:58 UTC 2024","2678","","","","","","Checking simple sql injections incorrectEmail@gmail.com (SELECT * FROM users WHERE username = 'admin' AND password = 'password')","This test checks responses for sql injections in password field"
-"passed","Tue Feb 27 15:41:56 UTC 2024","Tue Feb 27 15:41:57 UTC 2024","1899","","","","","","Negative: Attempt to authorize with incorrect email (incorrectEmail@gmail.com)","This test checks responses for incorrect emails and password"
-"passed","Tue Feb 27 15:41:56 UTC 2024","Tue Feb 27 15:41:58 UTC 2024","2274","","","","","","Checking simple sql injections forgotMyEmail@gmail.com (' OR 1=1 --)","This test checks responses for sql injections in password field"
