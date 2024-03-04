@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Mar 04 16:15:21 UTC 2024","Mon Mar 04 16:15:54 UTC 2024","33315","Full regression","","","","","Summarize Monthly Usage Data: Adding data to MongoDB collections","This test checks adding data to MongoDB collections"
-"passed","Mon Mar 04 16:15:21 UTC 2024","Mon Mar 04 16:15:32 UTC 2024","11205","Full regression","","","","","should create MongoDB database and collection via direct sending event to Kafka","This test checks MongoDB database and collection creation"
-"passed","Mon Mar 04 16:15:21 UTC 2024","Mon Mar 04 16:15:54 UTC 2024","33315","Smoke tests","","","","","should create MongoDB database and three collections via API","This test checks MongoDB database and three collections creation"
+"passed","Mon Mar 04 16:21:05 UTC 2024","Mon Mar 04 16:21:17 UTC 2024","11283","Full regression","","","","","should create MongoDB database and collection via direct sending event to Kafka","This test checks MongoDB database and collection creation"
+"passed","Mon Mar 04 16:21:05 UTC 2024","Mon Mar 04 16:21:39 UTC 2024","33396","Smoke tests","","","","","should create MongoDB database and three collections via API","This test checks MongoDB database and three collections creation"
+"passed","Mon Mar 04 16:21:05 UTC 2024","Mon Mar 04 16:21:39 UTC 2024","33395","Full regression","","","","","Summarize Monthly Usage Data: Adding data to MongoDB collections","This test checks adding data to MongoDB collections"
